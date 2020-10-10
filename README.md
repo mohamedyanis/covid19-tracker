@@ -1,4 +1,4 @@
-# covid19-tracker
+# covid-19 Tracker
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
