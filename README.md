@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-#100daysofcode This is a simple desktop app written in Python With Tkinter module, and the from googletrans library.
+#100daysofcode This is a simple desktop app written in Python With Tkinter module.
 Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.<br>
 
 ## #100daysofcode
