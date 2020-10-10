@@ -36,7 +36,7 @@ Specific Contry           | Result
 pip install tkinter
 pip install covid
 ```
-3. Install this repository, click <a href="https://github.com/mohamedyanis/py-translator/archive/master.zip"> here </a> to install it.
+3. Install this repository, click <a href="https://github.com/mohamedyanis/covid19-tracker/archive/master.zip"> here </a> to install it.
 4. Extract the folder
 5. Run the ```covid.py``` file
 
